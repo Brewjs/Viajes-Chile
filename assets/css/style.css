@@ -1,11 +1,36 @@
-body * {
+body {
+    background-color: #000000;
     text-align: center;
-    color: #000f08;
     margin: 0;
     border: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
   }
+
+hr { 
+    margin-top: 10px;
+    margin-bottom: 4rem;
+    height: 1pt;
+    background-color: #4400ff; 
+  }
+
+i {
+    color: white;
+}
+
+.
+
+.iconsize {
+    width: 8px;
+}
+
+.icolor {
+    background-color: aqua;
+}
+
+.bg-black {
+    background-color: #000000;
+}
 
 .imglogo {
 width: 3%;
@@ -33,3 +58,8 @@ height: auto;
 width: auto
 height: 60%;
 }*/
+
+.sectionsomos {
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+}

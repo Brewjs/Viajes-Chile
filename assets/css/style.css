@@ -1,0 +1,35 @@
+body * {
+    text-align: center;
+    color: #000f08;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+.imglogo {
+width: 3%;
+height: auto;
+}
+
+.txlogo {
+    font-weight: 400;
+    font-size: 1rem;
+    color: white;
+    margin-left: 5px;
+}
+
+.carousel-item {
+    height: 60rem;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+/*.imgcarrusell {
+width: auto
+height: 60%;
+}*/

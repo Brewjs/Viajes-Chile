@@ -9,7 +9,9 @@ body {
 
 hr { 
     margin-top: 10px;
-    margin-bottom: 4rem;
+    margin-bottom: 6rem;
+    margin-left: 45px;
+    margin-right: 45px;
     height: 1pt;
     background-color: #4400ff; 
   }
@@ -18,14 +20,12 @@ i {
     color: white;
 }
 
-.
-
 .iconsize {
     width: 8px;
 }
 
 .icolor {
-    background-color: aqua;
+    background-color: #1798c1;
 }
 
 .bg-black {
@@ -61,5 +61,23 @@ height: 60%;
 
 .sectionsomos {
     margin-top: 8rem;
+    margin-bottom: 4rem;
+}
+
+.carddestacados {
+    background-color: #1798c1;
+}
+
+.imgcard {
+    height: 255.688px;
+}
+
+/*.divhr {
+    width: 60%;
+    text-align: center;
+}*/
+
+.sectiondestacados {
+    margin-top: 11rem;
     margin-bottom: 4rem;
 }
